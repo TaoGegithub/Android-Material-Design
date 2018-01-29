@@ -151,7 +151,7 @@
 
 # License
 
-	Copyright (C) 2017 WeyYe
+	Copyright (C) 2017 Taoge
 	
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.

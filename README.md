@@ -1,13 +1,13 @@
 # Android-Material-Design
 
 ### [1. 概述](doc/material/material.md)
-### [2. 动画]()
-### [3. 样式]()
-### [4. 布局]()
-### [5. 组件]()
-### [6. 模式]()
-### [7. 可用性]()
-### [8. 资源]() 
+### [2. 动画](doc/animation/animation.md)
+### [3. 样式](doc/style/style.md)
+### [4. 布局](doc/layout/layout.md)
+### [5. 组件](doc/component/component.md)
+### [6. 模式](doc/patterns/patterns.md)
+### [7. 可用性](doc/usability/usability.md)
+### [8. 资源](doc/resources/resources.md)
 
 # 声明
 

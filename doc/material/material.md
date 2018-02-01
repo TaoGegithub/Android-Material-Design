@@ -1,15 +1,4 @@
-# Android-Material-Design
-
-## Android Material Design内容与分析
-
-### [1. 概述](doc/material/material.md)
-### [2. 动画]()
-### [3. 样式]()
-### [4. 布局]()
-### [5. 组件]()
-### [6. 模式]()
-### [7. 可用性]()
-### [8. 资源]() 
+# 1. 概述
 
 - Material Design核心思想：Google认为现实世界中的材质触感是可以通过**纸片**的隐喻来表达的，想将物理世界的体验带进屏幕。去掉现实中的杂质和随机性，保留其最原始纯净的形态、空间关系、变化与过渡，配合虚拟世界的灵活特性，还原最贴近真实的体验，达到简洁与直观的效果。
   	 
@@ -147,27 +136,3 @@
 	10. 切换按钮：1dp
 
 		![](images/3_26.png)
-
-# 更新待续······
-
-
-
-# 声明
-
-这个属于个人平时学习总结，集众家所长组成自己观点的文档，相关素材取材于互联网，仅做学习交流使用，如用到实际项目还需多考虑其他因素等，请多多斟酌，原作公司拥有所有权利。
-
-# License
-
-	Copyright (C) 2017 Taoge
-	
-	Licensed under the Apache License, Version 2.0 (the "License");
-	you may not use this file except in compliance with the License.
-	You may obtain a copy of the License at
-	
-	http://www.apache.org/licenses/LICENSE-2.0
-	
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS,
-	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-	See the License for the specific language governing permissions and
-	limitations under the License.
